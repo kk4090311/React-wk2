@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "wk1",
-    "slug": "wk1",
+    "name": "wk1proj",
+    "slug": "wk1proj",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
